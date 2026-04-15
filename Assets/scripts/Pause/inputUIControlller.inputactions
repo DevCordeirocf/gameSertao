@@ -1,0 +1,57 @@
+{
+    "version": 1,
+    "name": "inputUIControlller",
+    "maps": [
+        {
+            "name": "controllerPause",
+            "id": "9d7ebb4c-98db-4a03-ae5e-5d2809b01426",
+            "actions": [
+                {
+                    "name": "Menu",
+                    "type": "Value",
+                    "id": "0b9a900c-8b51-4643-9573-f28720b69e43",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1e0c002b-6a13-46c4-85ed-ccbfa741bd71",
+                    "path": "<Keyboard>/escape",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e13cd193-c723-4573-bd82-97c1dc0e79e0",
+                    "path": "<DualShockGamepad>/buttonEast",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "35eb0206-d5ba-4c0d-b375-ac97d6fa5e3c",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
