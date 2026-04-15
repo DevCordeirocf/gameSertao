@@ -33,7 +33,10 @@
 
 # Visual Studio cache directory
 .vs/
+<<<<<<< HEAD
 .vscode/
+=======
+>>>>>>> 100a929ae963057e983e7695d23200c725fc3d25
 
 # Gradle cache directory
 .gradle/
@@ -97,4 +100,8 @@ InitTestScene*.unity*
 /[Aa]ssets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 # Auto-generated scenes by play mode tests
+<<<<<<< HEAD
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+=======
+/[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+>>>>>>> 100a929ae963057e983e7695d23200c725fc3d25
